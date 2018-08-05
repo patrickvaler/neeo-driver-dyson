@@ -1,0 +1,32 @@
+{
+  "name": "neeo-driver-dyson-pure-cool-tp04",
+  "version": "0.0.0-development",
+  "description": "Neeo Driver for Dyson Pure Cool TP04 Tower",
+  "main": "index.js",
+  "scripts": {
+    "start": "neeo-sdk start",
+    "lint": "./node_modules/.bin/eslint ./lib/*",
+    "travis-deploy-once": "travis-deploy-once",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickvaler/neeo-driver-dyson-pure-cool-tp04.git"
+  },
+  "author": "Patrick Valer <hello@patrickvaler.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickvaler/neeo-driver-dyson-pure-cool-tp04/issues"
+  },
+  "homepage": "https://github.com/patrickvaler/neeo-driver-dyson-pure-cool-tp04#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-prettier": "^2.9.0",
+    "prettier": "^1.14.0",
+    "travis-deploy-once": "^5.0.2",
+    "semantic-release": "^15.9.3"
+  },
+  "dependencies": {
+    "neeo-sdk": "git+https://github.com/NEEOInc/neeo-sdk.git#next"
+  }
+}
