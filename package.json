@@ -29,6 +29,13 @@
     "travis-deploy-once": "^5.0.2"
   },
   "dependencies": {
+    "bonjour": "^3.5.0",
     "neeo-sdk": "git+https://github.com/NEEOInc/neeo-sdk.git#next"
+  },
+  "neeoSdkOptions": {
+    "serverName": "neeo-sdk-examples-server",
+    "serverPort": 6336,
+    "brainHost": "",
+    "brainPort": ""
   }
 }
