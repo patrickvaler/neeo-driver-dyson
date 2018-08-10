@@ -10,7 +10,7 @@
 - Dyson Pure Cool Tower TP04 (2018)
 - Dyson Pure Cool Desk DP04 (2018)
 
-More models are coming soon. You're device is missing? Please open an
+More Dyson devices are coming soon. You're device is missing? Please open an
 [Issue](https://github.com/patrickvaler/neeo-driver-dyson/issues) to get it supported faster.
 
 ## Supported Control Functions
