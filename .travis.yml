@@ -9,10 +9,13 @@ node_js:
 cache:
   directories:
   - node_modules
+before_install:
+  - npm install -g greenkeeper-lockfile
+install: npm install # npm ci won't work with greenkeeper pull
+before_script: greenkeeper-lockfile-update
 script:
   - npm run lint
-# TODO Setup Tests
-#  - npm test
+after_script: greenkeeper-lockfile-upload
 after_success:
   - npm run travis-deploy-once "npm run semantic-release"
 branches:
