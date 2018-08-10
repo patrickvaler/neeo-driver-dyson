@@ -1,0 +1,23 @@
+{
+  "release": {
+    "verifyConditions": [
+      "patrickvaler/neeo-driver-dyson", 
+      "patrickvaler/npm", 
+      "patrickvaler/git"
+    ],
+    "prepare": [
+      "patrickvaler/neeo-driver-dyson", 
+      "patrickvaler/npm", 
+      "patrickvaler/git"
+    ],
+    "generateNotes": {
+      "preset": "angular",
+      "parserOpts": {
+        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+      },
+      "writerOpts": {
+        "commitsSort": ["subject", "scope"],
+      }
+    }
+  }
+}
