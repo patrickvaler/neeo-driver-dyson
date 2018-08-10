@@ -1,12 +1,12 @@
 {
   "release": {
     "verifyConditions": [
-      "patrickvaler/neeo-driver-dyson-pure-cool-tp04", 
+      "patrickvaler/neeo-driver-dyson", 
       "patrickvaler/npm", 
       "patrickvaler/git"
     ],
     "prepare": [
-      "patrickvaler/neeo-driver-dyson-pure-cool-tp04", 
+      "patrickvaler/neeo-driver-dyson", 
       "patrickvaler/npm", 
       "patrickvaler/git"
     ],
