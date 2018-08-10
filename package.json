@@ -1,11 +1,11 @@
 {
   "name": "neeo-driver-dyson",
   "version": "0.0.0-development",
-  "description": "NEEO Driver for Dyson Devices",
+  "description": "Dyson device driver for NEEO Remote",
   "main": "index.js",
   "scripts": {
     "start": "NEEO_DEVICES_DIRECTORY=\"./lib\" neeo-sdk start",
-    "debug": "DEBUG=neeo-driver:dyson-tp04:* NEEO_DEVICES_DIRECTORY=\"./lib\" neeo-sdk start",
+    "debug": "DEBUG=neeo-driver-dyson:* NEEO_DEVICES_DIRECTORY=\"./lib\" neeo-sdk start",
     "lint": "./node_modules/.bin/eslint ./lib/**/*.js",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
