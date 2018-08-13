@@ -31,7 +31,8 @@
   "dependencies": {
     "bonjour": "^3.5.0",
     "mqtt": "^2.18.3",
-    "neeo-sdk": "git+https://github.com/NEEOInc/neeo-sdk.git#next"
+    "neeo-sdk": "^0.50.5",
+    "read-yaml": "^1.1.0"
   },
   "neeoSdkOptions": {
     "serverName": "neeo-sdk-examples-server",

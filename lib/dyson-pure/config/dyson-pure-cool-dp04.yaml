@@ -1,0 +1,12 @@
+name: 'Pure Cool Link Desk'
+key: 'DP04'
+modelNumber: 520
+controls:
+  buttons:
+    - 'POWER_ON'
+    - 'POWER_OFF'
+  switches:
+    - 'POWER_SWITCH'
+mqtt:
+  protocolVersion: 3
+  protocolId: 'MQIsdp'
