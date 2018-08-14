@@ -19,12 +19,16 @@ More Dyson Link devices are coming soon. You're Dyson Link device is missing? Pl
 
 - POWER ON
 - POWER OFF
-- SPEED UP
-- SPEED DOWN
+- CHANNEL UP - _Increase Fan Speed_
+- CHANNEL DOWN - _Decrease Fan Speed_
 
 ### Switches
 
 - POWER SWITCH
+
+### Widgets
+
+- CHANNEL ZAPPER - _Increase/Decrease Fan Speed_
 
 More components are coming soon.
 

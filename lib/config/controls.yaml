@@ -4,10 +4,14 @@ buttons:
   - name: 'POWER_OFF'
     label: 'POWER OFF'
   - name: 'SPEED_UP'
-    label: 'SPEED UP'
+    label: 'CHANNEL UP'
   - name: 'SPEED_DOWN'
-    label: 'SPEED DOWN'
+    label: 'CHANNEL DOWN'
 
 switches:
   - name: 'POWER_SWITCH'
     label: 'POWER SWITCH'
+
+widgets:
+  - name: 'SPEED_ZAPPER'
+    label: 'Channel Zapper'
