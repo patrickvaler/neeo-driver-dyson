@@ -1,9 +1,9 @@
 buttons:
   - name: 'POWER_ON'
-    label: 'Power On'
+    label: 'POWER ON'
   - name: 'POWER_OFF'
-    label: 'Power Off'
+    label: 'POWER OFF'
 
 switches:
   - name: 'POWER_SWITCH'
-    label: 'Power Switch'
+    label: 'POWER SWITCH'
