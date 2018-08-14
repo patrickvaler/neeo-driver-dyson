@@ -5,6 +5,8 @@ controls:
   buttons:
     - 'POWER_ON'
     - 'POWER_OFF'
+    - 'SPEED_UP'
+    - 'SPEED_DOWN'
   switches:
     - 'POWER_SWITCH'
 mqtt:

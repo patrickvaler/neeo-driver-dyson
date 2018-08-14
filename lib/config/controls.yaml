@@ -3,6 +3,10 @@ buttons:
     label: 'POWER ON'
   - name: 'POWER_OFF'
     label: 'POWER OFF'
+  - name: 'SPEED_UP'
+    label: 'SPEED UP'
+  - name: 'SPEED_DOWN'
+    label: 'SPEED DOWN'
 
 switches:
   - name: 'POWER_SWITCH'
