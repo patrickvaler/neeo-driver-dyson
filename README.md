@@ -27,6 +27,7 @@ More Dyson Link devices are coming soon. You're Dyson Link device is missing? Pl
 ### Switches
 
 - POWER SWITCH
+- AUTO SWITCH
 
 ### Widgets
 

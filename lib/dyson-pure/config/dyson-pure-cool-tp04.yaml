@@ -9,6 +9,7 @@ controls:
     - 'AUTO_OFF'
   switches:
     - 'POWER_SWITCH'
+    - 'AUTO_SWITCH'
   widgets:
     - 'SPEED_ZAPPER'
 mqtt:
