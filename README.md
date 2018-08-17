@@ -30,6 +30,7 @@ More Dyson Link devices are coming soon. You're Dyson Link device is missing? Pl
 
 - POWER SWITCH
 - AUTO SWITCH
+- NIGHT MODE SWITCH
 
 ### Widgets
 

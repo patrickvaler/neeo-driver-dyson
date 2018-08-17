@@ -12,6 +12,7 @@ controls:
   switches:
     - 'POWER_SWITCH'
     - 'AUTO_SWITCH'
+    - 'NIGHT_MODE_SWITCH'
   widgets:
     - 'SPEED_ZAPPER'
 mqtt:

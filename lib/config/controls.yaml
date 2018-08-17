@@ -21,6 +21,8 @@ switches:
     label: 'POWER SWITCH'
   - name: 'AUTO_SWITCH'
     label: 'AUTO SWITCH'
+  - name: 'NIGHT_MODE_SWITCH'
+    label: 'NIGHT MODE SWITCH'
 
 widgets:
   - name: 'SPEED_ZAPPER'
