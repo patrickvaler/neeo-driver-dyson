@@ -12,7 +12,7 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.js": "eslint ./lib/**/*.js –config .eslintrc.json"
+    "*.js": "eslint ./lib/**/*.js --config .eslintrc.json"
   },
   "repository": {
     "type": "git",

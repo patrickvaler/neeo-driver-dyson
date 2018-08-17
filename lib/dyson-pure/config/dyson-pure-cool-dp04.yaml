@@ -5,8 +5,14 @@ controls:
   buttons:
     - 'POWER_ON'
     - 'POWER_OFF'
+    - 'AUTO_ON'
+    - 'AUTO_OFF'
+    - 'NIGHT_MODE_ON'
+    - 'NIGHT_MODE_OFF'
   switches:
     - 'POWER_SWITCH'
+    - 'AUTO_SWITCH'
+    - 'NIGHT_MODE_SWITCH'
   widgets:
     - 'SPEED_ZAPPER'
 mqtt:

@@ -7,10 +7,22 @@ buttons:
     label: 'CHANNEL UP'
   - name: 'SPEED_DOWN'
     label: 'CHANNEL DOWN'
+  - name: 'AUTO_ON'
+    label: 'AUTO ON'
+  - name: 'AUTO_OFF'
+    label: 'AUTO OFF'
+  - name: 'NIGHT_MODE_ON'
+    label: 'NIGHT MODE ON'
+  - name: 'NIGHT_MODE_OFF'
+    label: 'NIGHT MODE OFF'
 
 switches:
   - name: 'POWER_SWITCH'
     label: 'POWER SWITCH'
+  - name: 'AUTO_SWITCH'
+    label: 'AUTO SWITCH'
+  - name: 'NIGHT_MODE_SWITCH'
+    label: 'NIGHT MODE SWITCH'
 
 widgets:
   - name: 'SPEED_ZAPPER'
