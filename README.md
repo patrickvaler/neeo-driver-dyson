@@ -10,15 +10,27 @@
 - Dyson Pure Cool Tower TP04 (2018)
 - Dyson Pure Cool Desk DP04 (2018)
 
-More Dyson devices are coming soon. You're device is missing? Please open an
+More Dyson Link devices are coming soon. You're Dyson Link device is missing? Please open an
 [Issue](https://github.com/patrickvaler/neeo-driver-dyson/issues) to get it supported faster.
 
-## Supported Control Functions
+## Supported Components
+
+### Buttons
 
 - POWER ON
 - POWER OFF
+- CHANNEL UP - _Increase Fan Speed_
+- CHANNEL DOWN - _Decrease Fan Speed_
 
-More control functions are coming soon.
+### Switches
+
+- POWER SWITCH
+
+### Widgets
+
+- CHANNEL ZAPPER - _Increase/Decrease Fan Speed_
+
+More components are coming soon.
 
 ## How to install
 
@@ -66,6 +78,6 @@ neeo-cli start
 
 ## Configuration
 
-At the moment this driver supports just one device and the password for the device has been set as `DYSON_FAN_PASSWORD` environment variable. You can use [dyson-cloud](https://github.com/patrickvaler/dyson-cloud) library to get the local credentials of your Dyson device.
+**IMPORTANT:** At the moment this driver supports just one device and the password for the device has been set as `DYSON_FAN_PASSWORD` environment variable. You can use [dyson-cloud](https://github.com/patrickvaler/dyson-cloud) library to get the local credentials of your Dyson device.
 
 It is planned to get rid of this limitation as soon as possible.

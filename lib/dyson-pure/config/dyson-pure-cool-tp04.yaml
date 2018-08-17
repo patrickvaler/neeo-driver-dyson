@@ -1,0 +1,14 @@
+name: 'Pure Cool Link Tower'
+key: 'TP04'
+modelNumber: 438
+controls:
+  buttons:
+    - 'POWER_ON'
+    - 'POWER_OFF'
+  switches:
+    - 'POWER_SWITCH'
+  widgets:
+    - 'SPEED_ZAPPER'
+mqtt:
+  protocolVersion: 3
+  protocolId: 'MQIsdp'

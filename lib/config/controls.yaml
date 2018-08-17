@@ -1,0 +1,17 @@
+buttons:
+  - name: 'POWER_ON'
+    label: 'POWER ON'
+  - name: 'POWER_OFF'
+    label: 'POWER OFF'
+  - name: 'SPEED_UP'
+    label: 'CHANNEL UP'
+  - name: 'SPEED_DOWN'
+    label: 'CHANNEL DOWN'
+
+switches:
+  - name: 'POWER_SWITCH'
+    label: 'POWER SWITCH'
+
+widgets:
+  - name: 'SPEED_ZAPPER'
+    label: 'Channel Zapper'
