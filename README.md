@@ -19,6 +19,8 @@ More Dyson Link devices are coming soon. You're Dyson Link device is missing? Pl
 
 - POWER ON
 - POWER OFF
+- AUTO ON
+- AUTO OFF
 - CHANNEL UP - _Increase Fan Speed_
 - CHANNEL DOWN - _Decrease Fan Speed_
 

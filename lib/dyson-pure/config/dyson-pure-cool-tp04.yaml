@@ -5,6 +5,8 @@ controls:
   buttons:
     - 'POWER_ON'
     - 'POWER_OFF'
+    - 'AUTO_ON'
+    - 'AUTO_OFF'
   switches:
     - 'POWER_SWITCH'
   widgets:

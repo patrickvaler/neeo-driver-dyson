@@ -7,6 +7,10 @@ buttons:
     label: 'CHANNEL UP'
   - name: 'SPEED_DOWN'
     label: 'CHANNEL DOWN'
+  - name: 'AUTO_ON'
+    label: 'AUTO ON'
+  - name: 'AUTO_OFF'
+    label: 'AUTO OFF'
 
 switches:
   - name: 'POWER_SWITCH'
