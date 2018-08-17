@@ -11,6 +11,10 @@ buttons:
     label: 'AUTO ON'
   - name: 'AUTO_OFF'
     label: 'AUTO OFF'
+  - name: 'NIGHT_MODE_ON'
+    label: 'NIGHT MODE ON'
+  - name: 'NIGHT_MODE_OFF'
+    label: 'NIGHT MODE OFF'
 
 switches:
   - name: 'POWER_SWITCH'
