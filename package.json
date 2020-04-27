@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "bonjour": "^3.5.0",
-    "mqtt": "^2.18.3",
+    "mqtt": "^4.0.0",
     "neeo-sdk": "^0.51.13",
     "read-yaml": "^1.1.0"
   },
